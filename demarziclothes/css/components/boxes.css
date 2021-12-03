@@ -1,0 +1,30 @@
+/* Design of the boxes*/
+
+
+.black-box {
+    width: 33px;
+    height: 10px;
+    background-color: black;
+    color: black;
+    padding: 20px;
+    position: absolute;
+    margin-left: 203px;
+    margin-top: 419px;
+    background-image: url("../../images/right-arrow.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.black-box-2 {
+    width: 33px;
+    height: 10px;
+    background-color: black;
+    color: black;
+    padding: 20px;
+    position: absolute;
+    margin-right: 229px;
+    margin-top: 435px;
+    background-image: url("../../images/right-arrow.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}

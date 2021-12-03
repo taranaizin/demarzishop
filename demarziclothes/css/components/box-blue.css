@@ -1,0 +1,15 @@
+.box-blue { 
+
+background-color: #1D3958;
+padding: 20px;
+text-align: center;
+	
+}
+
+.box-blue h1 {
+	font: Arapey;
+	font-size: 40px;
+	color: white;
+}
+
+.card-story img {width: 300px;}
