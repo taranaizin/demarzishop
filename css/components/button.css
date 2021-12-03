@@ -1,0 +1,26 @@
+/*button design*/
+
+.btn-brown {
+	background-color: #B18F63;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #F5F3F5;
+	font-weight: bold;
+	font-family: "Josephin Sans";
+}
+
+.btn-brown:hover {
+	background-color: #F5F3F5;
+	color: #B18F63;
+}
+
+.button5 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
